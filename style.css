@@ -67,6 +67,8 @@ header {
   border-bottom: solid;
   border-bottom-color: black;
   border-width: 5px;
+  width: 10%;
+  height: 10%;
 }
 a:link{
 
@@ -83,8 +85,4 @@ a:visited {
     background-color: transparent;
     text-decoration: none;
 }
-.image{
-  float: left;
-  width:70%; 
-  height:70%;
-}
+
